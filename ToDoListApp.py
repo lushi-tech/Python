@@ -1,3 +1,5 @@
+# This is a simple To Do list 
+
 tasks =[]
 
 def addTask():
